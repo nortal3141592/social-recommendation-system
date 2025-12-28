@@ -34,3 +34,20 @@ step-by-step using basic data structures (lists, dictionaries, sets).
     {"id": 101, "name": "Python Developers"}
   ]
 }
+```
+
+## How to Use
+
+- Store your raw data inside the `data/raw/` directory.  
+  Make sure the data is in JSON format.
+
+- Run `src/01_display_raw_data.py` to get an overview of your raw data.
+
+- Run `src/02_data_cleaning.py` to clean the raw data.  
+  The cleaned output will be saved inside `data/cleaned/`.
+
+- Run `src/03_people_you_may_know.py` and set the `user_id` for which you want
+  to find people the given user may know.
+
+- Run `src/04_pages_you_might_like.py` and set the `user_id` for which you want
+  to find pages the given user might like.
