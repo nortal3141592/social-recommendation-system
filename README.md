@@ -22,22 +22,6 @@ step-by-step using basic data structures (lists, dictionaries, sets).
 
 ---
 
-## 🗂 Project Structure
-social-recommendation-system/
-├── data/
-│ ├── raw/ # Uncleaned JSON data dumps
-│ └── cleaned/ # Cleaned output data
-│
-├── src/
-│ ├── 01_display_data.py
-│ ├── 02_clean_data.py
-│ ├── 03_people_you_may_know.py
-│ └── 04_pages_you_might_like.py
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
-
 ## 📊 Sample Input Format
 
 ```json
