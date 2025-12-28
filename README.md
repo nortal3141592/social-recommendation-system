@@ -49,5 +49,8 @@ step-by-step using basic data structures (lists, dictionaries, sets).
 - Run `src/03_people_you_may_know.py` and set the `user_id` for which you want
   to find people the given user may know.
 
+## Additional Info
+ - inside `src` i've added .ipynb_checkpoints in case anyone wants to run the code in a jupyter notebook
+
 - Run `src/04_pages_you_might_like.py` and set the `user_id` for which you want
   to find pages the given user might like.
