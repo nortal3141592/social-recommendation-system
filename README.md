@@ -51,6 +51,3 @@ step-by-step using basic data structures (lists, dictionaries, sets).
 
 - Run `src/04_pages_you_might_like.py` and set the `user_id` for which you want
   to find pages the given user might like.
-
-## Additional Info
- - inside `src` i've added .ipynb_checkpoints in case anyone wants to run the code in a jupyter notebook
